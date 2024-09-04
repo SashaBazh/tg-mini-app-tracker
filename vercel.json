@@ -1,0 +1,10 @@
+{
+  "headers": [
+    {
+      "source": "/tg-mini-app-tracker.min.js",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "*" }
+      ]
+    }
+  ]
+}
